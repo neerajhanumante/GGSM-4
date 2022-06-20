@@ -1,6 +1,15 @@
 # GGSM-4
-This repository contains MATLAB model code, parameterization details and results of the Generalized Global Sustainability Model (GGSM). <br>
-New features: Water stress based price model and feedback model
+This repository contains MATLAB model code, parameterization details and results of the Generalized Global Sustainability Model (GGSM).
+
+**New features:** 
+ - Water stress based price model and feedback model
+
+**Basic model:** 
+ - GGSM [https://github.com/neerajhanumante/GGSM.git]
+
+**Earlier research publications:**
+ - Nisal et al (2022) [https://doi.org/10.1371/journal.pone.0267403]
+ - Hanumante et al. [https://doi.org/10.1371/journal.pone.0266554]
 
 ## Main model
 
