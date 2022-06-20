@@ -7,12 +7,14 @@ New features: Water stress based price model and feedback model
 The main model is written in MATLAB.
 This code has been tested to function smoothly when run with MATLAB Online R2022a (Tested on 2022 Jun 19).
 
-Run a_run_this_file_scenario_popex_consinc.m for running the model. Select whether Scenario 4 to be activated from this file.
-b_main_model_file.m contains the main model. Select the water price model related parameters from this file.
+ - Run a_run_this_file_scenario_popex_consinc.m for running the model. Select whether Scenario 4 to be activated from this file.
+ - b_main_model_file.m contains the main model. Select the water price model related parameters from this file.
 
 
 ## Parameterization
-Parameters used for the water price model are showed in `Water price parameter matrix.xlsx` along with the detailed computation process. Input data used for the parameterization is also included in the same file. Sources and processing used to obtain this input data are included `Parameterization-input-data` directory. 
+ -  Parameters used for the water price model are showed in `Water price parameter matrix.xlsx` along with the detailed computation process.
+ -  Input data used for the parameterization is also included in the same file. 
+ -  Sources and processing used to obtain this input data are included `Parameterization-input-data` directory. 
 
 ## Results
 
