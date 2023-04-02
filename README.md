@@ -30,8 +30,8 @@ This code has been tested to function smoothly when run with MATLAB Online R2022
 Results include data files for Scenario 1, 4 and sensitivity of threshold price for agricultural elastic regime transition.
 Scenarios 1 and 4 defined by Nisal et al (2022) [https://doi.org/10.1371/journal.pone.0267403].
 
-   - `results-GGSM-4-Scenario-1.zip` contains results of Scenario 1: business as ususal
-   - `results-GGSM-4-Scenario-4.zip` contains results of Scenario 4: population explosion with consumption increase
+   - `results-GGSM-4-Scenario-Base-case.zip` contains results of Scenario 1: business as ususal
+   - `results-GGSM-4-Scenario-Population-Consumption.zip` contains results of Scenario 4: population explosion with consumption increase
    - `results-GGSM-4-Sensitivity.zip` contains results of Scenario 1 with threshold values 700% and 2100% (scenario 1 default 1500%)
 
 Generalized directory structure is as follows:
