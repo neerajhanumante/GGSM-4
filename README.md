@@ -1,4 +1,8 @@
 # GGSM-4
+
+
+# Please use version v2
+
 This repository contains MATLAB model code, parameterization details and results of the Generalized Global Sustainability Model (GGSM).
 
 **New features:** 
